@@ -478,6 +478,10 @@
         {
             "domain": "carry.pl",
             "reason": "https://github.com/duckduckgo/privacy-configuration/pull/2837"
+        },
+        {
+            "domain": "blah.com",
+            "reason": "Debugger added exception"
         }
     ],
     "settings": {
